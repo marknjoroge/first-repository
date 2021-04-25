@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class compounder {
+public class Compounder {
 	public static void main (String [] args){
 		
 		int chickNo;
